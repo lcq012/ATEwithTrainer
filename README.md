@@ -11,10 +11,6 @@
 ```
 ate_baseline_trainer
 ├── README.md 
-├── /draft/      						用于保存评估的样本（评估脚本的特性）
-├── /logs/								日志文件存放地址
-├── /raw_data/							数据集存放地址
-├── /report/							存放最优评价指标的模型参数位置
 ├── bert_model.py						模型文件
 ├── conlleval.py						评估脚本文件
 ├── data_processing.py					数据处理文件

@@ -11,13 +11,13 @@
 ```
 ate_baseline_trainer
 ├── README.md 
-├── bert_model.py						模型文件
-├── conlleval.py						评估脚本文件
+├── bert_model.py						    模型文件
+├── conlleval.py						    评估脚本文件
 ├── data_processing.py					数据处理文件
-├── main.py								主函数
-├── mytrainer.py						trainer函数
-├── requirements.txt					依赖环境
-└── run.sh								运行脚本文件
+├── main.py								      主函数
+├── mytrainer.py						    trainer函数
+├── requirements.txt					  依赖环境
+└── run.sh								      运行脚本文件
 
 ```
 
